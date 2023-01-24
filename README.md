@@ -7,3 +7,5 @@
   一般来说，我们会在3个工作日内给到回复!  
 3. 无法提交Issues?  
   请您注册Github账号！或者尝试验证您的邮箱  
+4. Want to modify lua code directly?   
+https://github.com/StarSea-Project/starsea-gmod-addons. pr welcome!
